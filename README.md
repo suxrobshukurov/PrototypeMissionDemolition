@@ -10,4 +10,5 @@
 * Реализовать настоящий многоуровневый скроллинг фоновых облаков и добавить больше фоновых элементов, таких как горы или здания и сооружения.
 
 
-https://github.com/suxrobshukurov/PrototypeMissionDemolition/blob/main/GameView.mp4
+https://user-images.githubusercontent.com/59746245/149570806-1565e5bd-646c-415e-9fec-a8f972cc1d96.mp4
+
